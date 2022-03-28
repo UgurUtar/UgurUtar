@@ -1,3 +1,15 @@
-- 👋 Hi, I’m @UgurUtar
-- 🌱 I’m currently learning laravel nova
-- 📫 How to reach me: ugur-2003@live.nl, https://www.linkedin.com/in/ugur-utar/
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UgurUtar&show_icons=true&theme=synthwave) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UgurUtar&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🛠 &nbsp;My skills
+
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+
+### 🤝🏻 &nbsp;Links
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ugur-utar/"><img height="50" src="https://img.icons8.com/fluent/144/000000/linkedin.png"/></a>
+</p>
