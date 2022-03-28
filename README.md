@@ -1,4 +1,10 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UgurUtar&show_icons=true&theme=synthwave) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UgurUtar&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=UgurUtar&show_icons=true&theme=synthwave&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UgurUtar&layout=compact&theme=synthwave&repo=convoychat" />
+</a>
+
 
 ### 🛠 &nbsp;My skills
 
