@@ -14,6 +14,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+![VueJS](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=vuedotjs)&nbsp;
 
 ### 🖇 &nbsp;Links
 
